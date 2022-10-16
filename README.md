@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lic20
-- 👀 I’m interested in Computer Engineering and Aerospace
+- 👀 I’m interested in Robotics and Control Systems
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: yuyingli123@gmail.com
